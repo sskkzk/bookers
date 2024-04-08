@@ -87,6 +87,9 @@ font-weight:lighter;
 a:visited{
   color: gray;
 }
+
+
+
 /*エラーメッセージ*/
 .error_message{
   width: 600px;
